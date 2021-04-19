@@ -129,14 +129,14 @@ ul.wikiext-tags:after{
 	margin-left:15px;
 }
 
-li.ExpandOpen {list-style-type: none;}
+li.ExpandOpen { list-style-type: none; }
 
-li.ExpandClosed {list-style-type: none;}
+li.ExpandClosed { list-style-type: none; }
 
-li.list_item {list-style-type: none;}
+li.list_item { list-style-type: none; }
 
-ul.list {display:block;list-style-type: none;list-style-image: none;}
-ul.IsRoot { margin-left:0px; list-style-type:none;}
+ul.list { display: block; list-style-type: none; list-style-image: none; }
+ul.IsRoot { margin-left: 0px; list-style-type: none; padding-left: 0px; }
 
 /**
  * Styles for page_break macro
